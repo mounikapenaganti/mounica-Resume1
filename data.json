@@ -1,0 +1,48 @@
+{
+  "basics":{
+    "name":"Mounika Penaganti",
+    "email":"penagantimounika@gmail.com",
+    "mobile":"+91 123456789"
+  },
+  "career":{
+    "info":"Emphasize that you are hard working and reliable, and that you are focused on achieving company goals"
+  },
+  "education":[
+    {
+      "degree":"B.tech(C.S.E)",
+      "institute":"Avanthi",
+      "data":["2015-19","76%"]
+    },
+    {
+      "degree":"Intermmediate",
+      "institute":"chaithanya",
+      "data":["2013-15","83%"]
+    },
+  {  "degree":"S.S.C",
+    "institute":"LITTLE FLOWERS",
+    "data":["2012-13","95%"]
+ }
+],
+ "skills":[
+   {
+     "title":"Programming Languages",
+     "info":["c","c++","java","Python"]
+   },
+   {
+     "title":"DataBases",
+     "info":["mongoDb","mysql","oracle"]
+   },
+   {
+     "title":"Web Technilogies",
+     "info":["HTML5","CSS3","JavaScript"]
+   },
+   {
+     "title":"Libraries and Frameworks",
+     "info":["ionic","Angular","expressJS",".net","Django"]
+   },
+   {
+     "title":"Operating Systems",
+     "info":["Windows","Linux","DOS"]
+   }
+  ]
+}
